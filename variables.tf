@@ -26,3 +26,8 @@ variable "SecretKey" {
   description = "AWS region"
   type        = string
 }
+
+variable "cluster_name" {
+  description = "AWS region"
+  type        = string
+}

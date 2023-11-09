@@ -14,7 +14,7 @@ variable "VPC_ID" {
 
 variable "Subnets" {
   description = "AWS region"
-  type        = string
+  
 }
 
 variable "AccessKey" {
